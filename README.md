@@ -22,3 +22,8 @@ Alternatively, you can [download this repository as a `.zip` file](https://githu
 ### Credits
 
 A huge majority of the wallpapers here I got from the [r/unixporn Discord server](https://discord.gg/unixporn)
+ub.com/michaelScopic/Wallpapers/archive/refs/heads/main.zip) and then extract it.
+
+### Credits
+
+A huge majority of the wallpapers here I got from the [r/unixporn Discord server](https://discord.gg/unixporn)

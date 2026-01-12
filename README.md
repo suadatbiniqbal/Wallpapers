@@ -1,4 +1,3 @@
-
 # Wallpapers
 
 These are all the wallpapers I have collected.
